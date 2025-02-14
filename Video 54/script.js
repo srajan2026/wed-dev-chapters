@@ -9,11 +9,7 @@ var isTrue = confirm("Are you sure you want to leave this page and blast your co
 
 if(isTrue){
     console.log("Computer is blasting")
-}
-
-
-
-    
+}   
 else{
     console.log("Computer is not blasting")
 
