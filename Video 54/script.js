@@ -11,6 +11,9 @@ if(isTrue){
     console.log("Computer is blasting")
 }
 
+
+
+    
 else{
     console.log("Computer is not blasting")
 
